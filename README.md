@@ -1,4 +1,4 @@
-#Driver Emotion Detection
+# UBC EECE571L 2022WT2 Driver Emotion Detection
 ## Quick Start for DMD Dataset
 After receiving the preprocessed DMD dataset, you should notice the following directory structure:
 ```
